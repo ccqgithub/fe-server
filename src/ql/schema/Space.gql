@@ -1,0 +1,14 @@
+type Space {
+  id: Int!
+  name: String!
+  ownerId: Int!
+  owner: User
+  ownerTitle: String 
+  fansTitle: String
+  intro: String 
+  portrait: String 
+  banner: String 
+  fansNum: String 
+  createdAt: DateTime
+  updatedAt: DateTime
+}

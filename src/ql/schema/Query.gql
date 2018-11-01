@@ -1,0 +1,3 @@
+type Query {
+  loginUser: User
+}

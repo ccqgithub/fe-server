@@ -1,0 +1,15 @@
+type User {
+  id: Int!
+  openid: String!
+  nickname: String!
+  email: String 
+  status: String
+  avatar: String 
+  intro: String 
+  token: String 
+  weibo: String 
+  mp: String 
+  qq: String 
+  createdAt: DateTime
+  updatedAt: DateTime
+}

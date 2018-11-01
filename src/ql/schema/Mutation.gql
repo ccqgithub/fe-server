@@ -1,0 +1,4 @@
+type Mutation {
+  login(code: String): User
+  addSpace(data: AddSpaceInput): Space
+}

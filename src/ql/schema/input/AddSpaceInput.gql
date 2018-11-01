@@ -1,0 +1,5 @@
+input AddSpaceInput {
+  name: String!
+  ownerTitle: String!
+  fansTitle: String!
+}
