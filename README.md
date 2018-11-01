@@ -5,7 +5,7 @@
 ## 功能
 
 - encrypt session
-- MongoDB 支持
+- Mysql 支持
 - GraphlQL 支持
 - docker
 - jsdoc
