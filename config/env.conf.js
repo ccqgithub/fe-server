@@ -18,12 +18,12 @@ const COMMON_CONF = {
 const ENV_CONF = {
   // dev
   dev: {
-    port: '50021',
+    port: '8005',
     dbConfig: {
       host: '127.0.0.1',
-      user: 'ooxx',
-      password: 'ooxx',
-      database: 'ooxx',
+      user: 'root',
+      password: 'root123456',
+      database: 'test',
     },
   },
   // prod
